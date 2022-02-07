@@ -1,0 +1,14 @@
+.bodyBG {
+  background-color: rgba(202, 190, 241, 0.637);
+}
+
+.indexDiv {
+  height: 50vh;
+  background-color: rgba(195, 173, 236, 0.637);
+  border-radius: 10px;
+}
+
+.textDiv {
+  width: 25vw;
+  border-radius: 5px;
+}/*# sourceMappingURL=custom.css.map */
